@@ -1,0 +1,2 @@
+# SALES-PERFORMANCE-AND-CUSTOMER-INSIGHTS-REPORT.
+SQL query and Power BI visualizations
